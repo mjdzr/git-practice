@@ -4,3 +4,6 @@ def test():
     return 'test'
 
 test()
+
+def add(a, b):
+    return a + b
